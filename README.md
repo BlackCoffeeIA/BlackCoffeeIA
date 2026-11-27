@@ -2,15 +2,15 @@
   <img src="./assets/banner.svg" alt="Lucas Albornoz — BlackCoffeeIA" width="100%" />
 </p>
 
-## Hi, I'm Lucas
+## About me
 
-I'm a developer from Argentina. I enjoy building software that takes repetitive work off people's hands.
+I'm a developer focused on AI automation and software development. I enjoy solving real business problems, simplifying complex processes and building systems that are useful beyond the prototype.
 
-I started out in web development and gradually moved into automation and AI. These days, I work mostly with n8n, APIs, language models and PostgreSQL. I also build web applications and experiment with ways to bring those tools together.
+I'm particularly interested in how AI can improve everyday operations and make software more effective.
 
 ## Tech stack
 
-<img src="./assets/tech-stack.svg" alt="AI and automation: n8n, OpenAI, REST APIs. Development and data: Python, JavaScript, TypeScript, React, Next.js, PostgreSQL, MySQL. Infrastructure: Docker, Git, Linux." width="700" />
+<img src="./assets/tech-stack.svg" alt="AI and automation: n8n, OpenAI API, LLM workflows, Structured outputs. Programming languages: Python, JavaScript, TypeScript, SQL. Web and integrations: React, Next.js, REST APIs, Webhooks. Databases and development tools: PostgreSQL, MySQL, Docker, Git." width="700" />
 
 ## Projects
 
@@ -24,4 +24,4 @@ I'm preparing the repositories and documentation for the automation projects bef
 
 ---
 
-**BlackCoffeeIA** · Argentina
+**BlackCoffeeIA**
